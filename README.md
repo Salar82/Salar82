@@ -1,10 +1,12 @@
-#[Ali Shojaee]:
-from Shiraz university :: ***CSE***
-- ---
+<h1 align="center"> Ali Shojaee</h1>
+<h3 align="center">from Shiraz university :: <b><i>CSE</i></b></h3>
+
+----
+
 #Fluent in:
 * ##Programming languages:
   * ###[Python](https://www.python.org/) &nbsp;&nbsp;&nbsp; ![98%](https://progress-bar.dev/98)
-    - ####[Django](https://www.djangoproject.com/) &nbsp;&nbsp;&nbsp; ![75%](https://progress-bar.dev/75)
+    * ####[Django](https://www.djangoproject.com/) &nbsp;&nbsp;&nbsp; ![75%](https://progress-bar.dev/75)
   * ###[JAVA](https://www.java.com/) &nbsp;&nbsp;&nbsp; ![95%](https://progress-bar.dev/95)
   * ###[PHP](https://www.php.net/) &nbsp;&nbsp;&nbsp; ![80%](https://progress-bar.dev/80)
      * ####[WordPress](https://wordpress.org/download/) &nbsp;&nbsp;&nbsp; ![70%](https://progress-bar.dev/70)
