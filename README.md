@@ -18,7 +18,7 @@
     * #### [BOOTSTRAP](https://getbootstrap.com/) &nbsp;&nbsp;&nbsp; ![60%](https://progress-bar.dev/60)
 
 * ## Programming platforms:
-  * ### [Android](https://developer.android.com/) &nbsp;&nbsp;&nbsp; ![98%](https://progress-bar.dev/98)
+  * ### [Android](https://developer.android.com/) &nbsp;&nbsp;&nbsp; ![95%](https://progress-bar.dev/95)
   * ### WEB &nbsp;&nbsp;&nbsp; ![80%](https://progress-bar.dev/80)
   * ### Desktop &nbsp;&nbsp;&nbsp; ![65%](https://progress-bar.dev/65)
   
