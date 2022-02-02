@@ -24,8 +24,8 @@
   
 * ## Programming projects:
   * ### Projects experience
-    * #### Informatics member [HourOfCode](https://hocshirazu.ir) & Its Development
-    * #### Informatics member [SampCode](https://sampcode.hocshirazu.ir) & Its Development
+    * #### Informatics member [HourOfCode](https://hocshirazu.ir)
+    * #### Informatics member [SampCode](https://sampcode.hocshirazu.ir)
   * ### Libraries wrapped (JAVA to BASIC):
     * #### [ShImageSlider](https://answercenter.ir/store/product/161-shimageslider-%D8%A7%D8%B3%D9%84%D8%A7%DB%8C%D8%AF%D8%B1-%D8%B9%DA%A9%D8%B3-%D8%AD%D8%B1%D9%81%D9%87%E2%80%8C%D8%A7%DB%8C/)
     * #### [ShSlideToAct](https://www.b4x.com/android/forum/threads/shslidetoact-wrapped-from-kotlin.125238/#post-781786)
