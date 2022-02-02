@@ -1,6 +1,6 @@
 <h1 align="center">Ali Shojaee</h1>
 
-<h3 align=center>Shiraz university :: ***CSE***</h3>
+<h3 align=center>Shiraz university :: <b><i>CSE</i></b></h3>
 
 - ---
 # Fluent in:
@@ -19,7 +19,6 @@
 
 * ## Programming platforms:
   * ### [Android](https://developer.android.com/) &nbsp;&nbsp;&nbsp; ![98%](https://progress-bar.dev/98)
-    * #### More about [Me (Salar82)](https://answercenter.ir/profile/11695-salar82/)
   * ### WEB &nbsp;&nbsp;&nbsp; ![80%](https://progress-bar.dev/80)
   * ### Desktop &nbsp;&nbsp;&nbsp; ![65%](https://progress-bar.dev/65)
   
