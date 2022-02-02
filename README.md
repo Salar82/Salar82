@@ -1,5 +1,7 @@
-# Ali Shojaee:
-from Shiraz university :: ***CSE***
+<h1 align="center">Ali Shojaee</h1>
+
+<h3 align=center>Shiraz university :: ***CSE***</h3>
+
 - ---
 # Fluent in:
 * ## Programming languages:
